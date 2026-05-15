@@ -41,13 +41,6 @@ The UI is inspired by modern fintech applications like **PhonePe** with glassmor
 ✨ Dynamic DOM Manipulation  
 
 ---
-
-# 🖼️ Project Screenshot
-
-<p align="center">
-  <img src="images/todo-ui.png" width="900">
-</p>
-
 ---
 
 # 🛠️ Technologies Used
