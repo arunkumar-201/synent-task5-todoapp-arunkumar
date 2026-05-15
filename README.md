@@ -1,7 +1,7 @@
 # 🌟 Todo App
 
 <h3 align="center">
-Modern Todo Application with PhonePe Inspired UI
+Modern Todo Application 
 </h3>
 
 <p align="center">
